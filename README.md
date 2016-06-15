@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # miniQuery challenge
 
 ##Learning Competencies
@@ -165,3 +166,6 @@ miniQuery is too long to write, can we use $ as well. Nothing should change, we'
 - [Bonzo](https://github.com/ded/bonzo)
 - [reqwest](https://github.com/ded/reqwest)
 - [Bean](https://github.com/fat/bean)
+=======
+# miniQuery
+>>>>>>> f77645025a10a6206f4985d2464679b9deef2750
