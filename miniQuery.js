@@ -68,7 +68,6 @@ return {
   },
 
   addClass: function(newClass){
-      // this has one minor bug in which it adds the class with a space in front.k  Would take too much time to fix this minor bug figured time would be better spent moving on
       var elements = _this.element;
       if (isCollection(elements)) {
         for(var i = elements.length -1; i >= 0; i-- ){
