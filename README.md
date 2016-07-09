@@ -12,7 +12,7 @@ This was a fun challenge I did to recreate some key elements of jQuery.  I have 
 + on(listener, callback)
 + trigger(listener)
 + remove()
-# Additional Functionality
-+ $.ajax({object params})) (just like jQuery)
-+ $.ready(callback) (just like jQuery)
+
+Additional Functionality
+$.ajax({object params})) (just like $.ready(callback) (just like jQuery)
 ### You can also use instead of the $() selector, miniQuery()
